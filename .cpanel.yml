@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/palestin/gitcpanel.alkholoudbm.com/
+    - /bin/cp * $DEPLOYPATH
